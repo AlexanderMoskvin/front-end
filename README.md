@@ -4,7 +4,7 @@
 
 - get config user.name 'Alexander Moskvin'
 
-- get config user.mail 'alex979793@mail.ru'
+- get config user.email 'alex979793@mail.ru'
 
 - git add .
 
@@ -31,3 +31,9 @@
 - git push -u origin master
 
 - ввожу username и password
+
+- git add .
+
+- git commit 'add README file'
+
+- git push
